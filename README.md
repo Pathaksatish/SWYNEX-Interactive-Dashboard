@@ -71,13 +71,11 @@ Key data preparation steps included:
 ```text
 SWYNEX-Interactive-Dashboard
 │
-├── Dashboard
-│   └── SWYNEX-Cafe-Sales-Dashboard.pbix
-│
-├── Dataset
-│   └── SWYNEX-Cafe-Sales-EDA.xlsx
-│
-├── Screenshots
-│   └── cafe-sales-dashboard.png
-│
+├── Dashboard.png
+├── SWYNEX-Cafe-Sales-Dashboard.pbix
+├── SWYNEX-Cafe-Sales.xlsx
 └── README.md
+
+## 📷 Dashboard Preview
+
+![Cafe Sales Dashboard](Dashboard.png)
